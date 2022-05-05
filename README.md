@@ -58,7 +58,7 @@ mvn install
 The vprofile-v2.war is the artifact(artifact is the o/p of your build process)
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/49971693/166976476-1d6e0cd9-9284-4e0c-92ac-2dacff32cb59.png">
-This is the dependency directory.
+This is the dependency directory => /home/ec2-user/.m2/repository/
 
 ```
 #  wipes out the target directory
