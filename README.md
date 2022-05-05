@@ -48,9 +48,10 @@ Test reports are here
 <img width="1091" alt="image" src="https://user-images.githubusercontent.com/49971693/166975931-a990b909-94fd-4f53-b6bd-2c37c2d87c55.png">
 
 ```
+#  Will run all previous phases
 mvn install
 ```
-Will run all previous phases
+
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/49971693/166976160-3f0cde2d-3106-4018-b190-16a0ec547a00.png">
 
@@ -60,14 +61,16 @@ The vprofile-v2.war is the artifact(artifact is the o/p of your build process)
 This is the dependency directory.
 
 ```
+#  wipes out the target directory
 mvn clean
 ```
-wipes out the target directory
+
 
 ```
+# removes old and creates a new dir
 mvn clean install
 ```
-removes old and creates a new dir
+
 
 To install another version of mvn
 ```
