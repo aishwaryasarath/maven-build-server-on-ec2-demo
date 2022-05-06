@@ -1,5 +1,5 @@
 # Maven Notes
-[Maven Build Process]
+[Maven Build Process](https://github.com/aishwaryasarath/maven-notes/blob/746b020bd7327e5ac42105440e8033e6db35ec4a/mavenBuildprocess.png)
 - To automate this build process, we use Maven.
 - Maven is for java & build file is in XML Format
 - Ant is also for Java and in XML format
