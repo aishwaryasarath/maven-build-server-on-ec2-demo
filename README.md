@@ -9,7 +9,7 @@
 
 
 ## Maven phases
-- ![image](https://user-images.githubusercontent.com/49971693/166967063-807d1214-483b-4464-ac44-da3daf57ea31.png)
+- [Phases](https://github.com/aishwaryasarath/maven-notes/blob/98b19ad25ac9f6b09a7bcdd79ba9fbc96ae02513/MavenPhases.png)
 - mvn validate 
 - mvn complie
 - mvn test - need a unit test framework
