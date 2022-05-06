@@ -1,7 +1,5 @@
 # Maven Notes
-
-<img width="900" alt="image" src="https://user-images.githubusercontent.com/49971693/166966273-9a4d1292-3b19-4950-bb07-99840823f6d1.png">
-
+[Maven Build Process]
 - To automate this build process, we use Maven.
 - Maven is for java & build file is in XML Format
 - Ant is also for Java and in XML format
