@@ -17,7 +17,7 @@
 - verify
 - install 
 
-![image](https://user-images.githubusercontent.com/49971693/166967452-c6799b03-62c6-4eac-b173-12886abf34c9.png)
+[Maven Life Cycle](https://github.com/aishwaryasarath/maven-notes/blob/f8cc9dfd1c0b881769660d361a3cc34585bae26b/MavenLifeCycle.png)
 
 ## Build Server on EC2 demo
 1. Spinning up an EC2 instance referring to 
